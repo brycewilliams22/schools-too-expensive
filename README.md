@@ -11,3 +11,32 @@ Data Source
 The data used in this project comes from the following:
 Average college cost-  https://www.kaggle.com/code/kfoster150/nces-avg-college-cost 
 
+Additional References:
+
+https://towardsdatascience.com/simplest-way-of-creating-a-choropleth-map-by-u-s-states-in-python-f359ada7735e
+
+Library Glossary
+
+Numpy: Numpy is the fundamental package for computing in Python. It is a library that includes a multidimensional array object that includes an assortment of routines for fast operations on arrays 
+
+Pandas: Pandas is an open source Python program that is used dor machine learning tasks and data analysis. It is built on top of numpy, which was explained above.
+
+Matplotlib: Matplotlib is a library used in python and many different kinds of 2D visulations and plots of arrays using the data.
+
+Seaborn: Seaborn is a library used in python to make visualizations and to plot graphs using matplotlib.
+
+Challenges
+
+Finding the data was a big challenge in this project. It was difficult finding a dataset that could be used to answer the questions and the objectives that were set.
+
+Another challenge was working by myself, it would have been easier to have a group so that I would be able to bounce ideas off and combine our skillsets to bring a better project to the table.
+
+Deciding what story to tell was another challenge I faced. Having missed so much class time, it was difficult putting it all together.
+
+I was limited by my python skillset, havind ideas and not being able to produce it based on my skillset.
+
+Lessons Learned
+
+Learning by trial and error is the smartest thing to do in python.
+
+Trying out different datasets can be very useful.
