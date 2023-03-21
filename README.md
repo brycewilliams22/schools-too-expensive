@@ -33,7 +33,7 @@ Another challenge was working by myself, it would have been easier to have a gro
 
 Deciding what story to tell was another challenge I faced. Having missed so much class time, it was difficult putting it all together.
 
-I was limited by my python skillset, havind ideas and not being able to produce it based on my skillset.
+I was limited by my python skillset, having ideas and not being able to produce it based on my skillset.
 
 Lessons Learned
 
